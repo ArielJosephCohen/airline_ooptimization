@@ -11,12 +11,32 @@ Predicting customer satisfaction on flights
 
 ***
 
-# Summary of Files and Analytical Process
+# Data and Source
+
+***
+
+# Analytical Process and Statistical Methods Employed
+
+***
+
+# Summary of Files
 
 ***
 
 # Findings
 
+## EDA Notes
+
+## Feature Importance
+
+***
+
+# Recommendations
+
 ***
 
 # Notes and Links
+
+***
+
+# Thanks For Reading!
