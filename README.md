@@ -17,9 +17,9 @@ The business value of this project will be to help airlines better understand ho
 
 From a simplistic perpspective, I want to explore all flights initially but later hone in on domestic and international flights in particular to see if there are major or important differences.
 
-1. To accomplish this I will organize the data and later conduct exploratory data analysis and hypothesis tests to gain further insights into my data which may lead me to organizing the data again in new and more creative ways.
+1. To accomplish this I will organize the data and later conduct exploratory data analysis and hypothesis tests to gain further insights into my data which may lead me to organizing the data again in new and more creative ways and will also allow for possible feature interactions.
 
-2. Next, I will leverage feature engineering to optimized the inputs in my data and search for new possible inputs implicit in the data.
+2. Next, I will leverage feature engineering to optimized the inputs in my data.
 
 3. I will then split my data into a training and test set for modeling purposes.
 
