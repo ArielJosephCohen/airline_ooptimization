@@ -17,7 +17,7 @@ The business value of this project will be to help airlines better understand ho
 
 From a simplistic perpspective, I want to explore all flights initially but later hone in on domestic and international flights in particular to see if there are major or important differences.
 
-1. To accomplish this I will organize the data and later conduct exploratory data analysis and hypothesis tests to gain further insights into my data which may lead me to organizing the data again in new and more creative ways and will also allow for possible feature interactions.
+1. To accomplish this I will organize the data and later conduct exploratory data analysis (henceforth abbreviated as EDA) and hypothesis tests to gain further insights into my data which may lead me to organizing the data again in new and more creative ways and will also allow for possible feature interactions.
 
 2. Next, I will leverage feature engineering to optimized the inputs in my data.
 
@@ -49,6 +49,9 @@ From a simplistic perpspective, I want to explore all flights initially but late
 ### Invistico_Airline.csv
 Data source csv file.
 
+### EDA_data.csv
+Slightly modified version of original data for EDA purposes.
+
 ### README.md
 This file you are reading describing my project.
 
@@ -63,6 +66,12 @@ Python notebook for hypothesis testing.
 
 ### models.ipynb
 Python notebook for machine learning models.
+
+### EDA_htest_plan.txt
+A space to ask some questions answered using visuals in the EDA notebook.
+
+### interactions.txt
+A space to think about possible feature interactions.
 
 ***
 

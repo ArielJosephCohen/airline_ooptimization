@@ -9,14 +9,14 @@ Target: Satisfaction
 5. Class
 6. Flight_Distance
 7. Seat_comfort
-8. Departure/Arrival_time_convenient
+8. Departure_Arrival_time_convenient
 9. Food_and_drink
 10. Gate_location
 11. Inflight_wifi_service
 12. Inflight_entertainment
 13. Online_support
 14. Ease_of_Online_booking
-15. On-board_service
+15. On_board_service
 16. Leg_room_service
 17. Baggage_handling
 18. Checkin_service
@@ -27,4 +27,4 @@ Target: Satisfaction
 
 Potential Interactions:
 
-1.
+1. Total delay = departure delay + arrival delay
