@@ -1,0 +1,30 @@
+features:
+
+Target: Satisfaction
+
+1. Gender
+2. Customer_Type
+3. Age
+4. Type_of_Travel
+5. Class
+6. Flight_Distance
+7. Seat_comfort
+8. Departure/Arrival_time_convenient
+9. Food_and_drink
+10. Gate_location
+11. Inflight_wifi_service
+12. Inflight_entertainment
+13. Online_support
+14. Ease_of_Online_booking
+15. On-board_service
+16. Leg_room_service
+17. Baggage_handling
+18. Checkin_service
+19. Cleanliness
+20. Online_boarding
+21. Departure_Delay_in_Minutes
+22. Arrival_Delay_in_Minutes
+
+Potential Interactions:
+
+1.
