@@ -7,7 +7,7 @@ Target: Satisfaction
 3. Age
 4. Type_of_Travel
 5. Class
-6. Flight_Distance
+6. Flight_Distance (bin)
 7. Seat_comfort
 8. Departure_Arrival_time_convenient
 9. Food_and_drink
@@ -22,9 +22,9 @@ Target: Satisfaction
 18. Checkin_service
 19. Cleanliness
 20. Online_boarding
-21. Departure_Delay_in_Minutes
-22. Arrival_Delay_in_Minutes
-23. Total_delay
+21. Departure_Delay_in_Minutes (bin)
+22. Arrival_Delay_in_Minutes (bin)
+23. Total_delay (bin)
 
 General questions:
 
@@ -37,6 +37,14 @@ Feature correlations:
 6. Food and drink - total delay, ease of online booking, on board service, cleanliness
 7. Gate location - ease of online booking, cleanliness, total delay, on board service
 8. Inflight wifi - inflight entertainment, on board service, baggage handling, cleanliness
-9.
+9. Inflight entertainment - ease of online booking, on board service, total delay, cleanliness
+10. Ease of online booking - on board service, baggage handling, cleanliness, total delay
+11. On board service - baggage handling, cleanliness, total delay, leg room service.
+12. Leg room service - cleanliness, checkin service
+13. Baggage handling - checkin service, cleanliness
+14. Checkin service - cleanliness, totaly delay
+15. CLeanliness - online boarding, total delay
+16. Online boarding - delay each way
+17. Departure delay - arrival delay - total delay
 
 Target correlations:
