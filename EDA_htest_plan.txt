@@ -24,6 +24,7 @@ Target: Satisfaction
 20. Online_boarding
 21. Departure_Delay_in_Minutes
 22. Arrival_Delay_in_Minutes
+23. Total_delay
 
 General questions:
 
@@ -33,6 +34,9 @@ Feature correlations:
 3. Age - type of travel, class, flight distance, convenient
 4. Flight distance - seat comfort, wifi, entertainment, onboard service, delay
 5. Convenient - gate location, wifi service, on board service, cleanliness
-6. 
+6. Food and drink - total delay, ease of online booking, on board service, cleanliness
+7. Gate location - ease of online booking, cleanliness, total delay, on board service
+8. Inflight wifi - inflight entertainment, on board service, baggage handling, cleanliness
+9.
 
 Target correlations:
