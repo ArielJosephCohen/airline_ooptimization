@@ -48,3 +48,25 @@ Feature correlations:
 17. Departure delay - arrival delay - total delay
 
 Target correlations:
+
+1. Gender - customer type, age, type of travel, class.
+2. Customer type - age, class, travel type, delay.
+3. Age - class, distance, comfort, entertainment, cleanliness, delay.
+4. Type of travel - class, distance, comfort, delay.
+5. Class - distance, comfort, convenient, entertainment.
+6. Distance - comfort, gate location, delay, entertainment.
+7. Comfort - delay, entertainment, convenient, cleanliness.
+8. Convenient - food and drink, entertainment, wifi, delay.
+9. Food and drink - entertainment, on board service, cleanliness, delay.
+10. Gate location - convenient, baggage handling, ease, online boarding.
+11. Inflight wifi - entertainment, cleanliness, leg room, cleanliness.
+12. Entertainment - cleanliness, delay, service, leg room.
+13. Online support - ease of online booking, delay, online boarding, checkin service.
+14. Ease of online booking - on board service, online boarding.
+15. On board service - leg room, cleanliness.
+16. Leg room - cleanliness, delay.
+17. Baggage handling - checkin service, cleanliness.
+18. Checkin - online boarding, delay.
+19. Cleanliness - arrival delay, departure delay.
+20. Online boarding - arrival delay, departure delay.
+21. Three delay types.
