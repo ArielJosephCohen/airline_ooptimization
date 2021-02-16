@@ -29,7 +29,7 @@ Target: Satisfaction
 General questions:
 
 Feature correlations:
-1. Gender - customer type, type of travel, flight distance, age
+1. Gender - customer type, type of travel, class, age
 2. Customer type - age, flight distance, type of travel, gate location
 3. Age - type of travel, class, flight distance, convenient
 4. Flight distance - seat comfort, wifi, entertainment, onboard service, delay
