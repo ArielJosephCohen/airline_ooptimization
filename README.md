@@ -15,7 +15,7 @@ The business value of this project will be to help airlines better understand ho
 
 # Analytical Process and Statistical Methods Employed
 
-From a simplistic perpspective, I want to explore all flights initially but later hone in on domestic and international flights in particular to see if there are major or important differences.
+From a simplistic perpspective, I want to explore all flights initially but later hone in on different classes in both domestic and international flights in particular to see if there are major or important differences.
 
 1. To accomplish this I will organize the data and later conduct exploratory data analysis (henceforth abbreviated as EDA) and hypothesis tests to gain further insights into my data which may lead me to organizing the data again in new and more creative ways and will also allow for possible feature interactions.
 
