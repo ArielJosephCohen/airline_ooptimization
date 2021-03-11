@@ -70,3 +70,18 @@ Target correlations:
 19. Cleanliness - arrival delay, departure delay.
 20. Online boarding - arrival delay, departure delay.
 21. Three delay types.
+
+
+
+
+lineplots
+
+scatterplots
+
+boxplots
+
+violinplots
+
+subset pie charts
+
+boxenplots
