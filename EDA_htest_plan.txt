@@ -2,7 +2,7 @@ features:
 
 Target: Satisfaction
 
-1. Gender
+1. Genders
 2. Customer_Type
 3. Age
 4. Type_of_Travel

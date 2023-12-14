@@ -8,7 +8,7 @@ The goal of this project is to build a model to predict customer satistfaction a
 
 ***
 
-# Business Value
+# Business Value 
 The business value of this project will be to help airlines better understand how to best serve their customers and what areas they should focus on and invest time and money into for customer satisfaction and conversely what they need to spend less money on (if possible, I'd also like to explore cost-benefit analysis. After we know what factors of a flight matter most to customers, we could see which ones actually have a high likelihood or potential to actually be implemented).
 
 ***
